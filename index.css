@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&family=Syne+Tactile&display=swap');
+html { margin: 0; width: 100%; }
+body { margin: 0; width: 100%; background-color:black; }
+header { background-color: red; }
+h1 {font-family: Syne Tactile;}
+h2 {font-family: Syne Tactile;}
+#nav { text-align: center; }
+h3 { display: inline; margin left: 10%; margin-right: 10%; font-size: 32px; font-family:Syne Tactile ; background-color: white; }
+#nav1 {float: left; text-align: center; display: inline; margin: 3%;}
+#nav2 {text-align: center; margin: 3%;}
+img {float: left; margin: 3%; display: inline; }
+h4 {display: inline;background-color: white;}
+p {display: inline; font-family: Syne Tactile;background-color: white;}
